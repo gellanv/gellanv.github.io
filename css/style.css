@@ -1,0 +1,54 @@
+*{margin:0;
+padding:0;}
+body {font-family: 'Droid Serif', serif;}
+.header {background-color:#adc6c3;
+padding:5px;
+text-align:center;
+width:100%;
+position: fixed;
+z-index: 999;}
+.header a {color:#fff;
+font-size: 17px;}
+.nav li {display: inline-block;}
+.nav li a {display:block;
+padding:10px;}
+.nav li a:hover {background-color: #efefef;
+    border-radius: 10px;
+    color: #3c3c3c;}
+.first-block {background: url(../images/backfon.jpg) no-repeat fixed 50% 0;
+    color: #fff;
+    padding-top: 50px;
+  	background-size: cover;}
+ .about-1 {background: rgba(0, 0, 0, 0.44);
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 30px 1px #4e4d4d;
+    border: 1px solid #636161;}
+.foto {background: url(../images/foto.jpg) no-repeat 0;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-position: 0 0;
+ 		margin-left: 20%;
+ 	  border: 1px solid #a09e9e;
+    box-shadow: 1px 1px 30px 1px #4e4d4d;}
+.about {padding: 100px;} 
+.second-block {background-color: #fff;
+text-align:center;
+  width: 100%;
+background-image:url(../images/bg.png);
+padding:20px;}
+.portfolio .block {border: 1px solid #ccc9c9;
+    height: 350px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px #c6c6c6;}
+    .second-block h2 {margin:20px;}
+
+.third-block {background-color:#adc6c3;
+text-align:center;
+color:#fff;
+padding:20px;}
+.third-block li {list-style-type: none;
+padding:10px;
+font-size: 1.5em;}
