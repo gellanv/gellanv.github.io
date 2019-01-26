@@ -14,7 +14,7 @@
     .about-1 h1 {font-size: 1.2em;}
     .about-1 h2 {font-size: 1em;
         margin-bottom: 10px;}
-    .about-1 p {font-size: 1em;}
+    .about-1 p {font-size: 0.9em;}
 }
 
 @media screen and (max-width: 768px) {
@@ -23,5 +23,4 @@
     height: 160px;
     width: 160px;
      background-position: -45px -27px;}
-    .about-1 p {font-size: 0.8em;}
 }
