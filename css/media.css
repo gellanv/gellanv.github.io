@@ -17,4 +17,10 @@
     .about-1 p {font-size: 1em;}
 }
 
-@media screen and (max-width: 768px) {}
+@media screen and (max-width: 768px) {
+.about-1 p {font-size: 0.9em;}
+ .foto {
+    height: 160px;
+    width: 160px;
+     background-position: -45px -27px;}
+}
