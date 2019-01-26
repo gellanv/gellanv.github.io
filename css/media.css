@@ -2,7 +2,7 @@
 .first-block {padding-top:0;}
 .about {padding:0;
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 50px;}
 }
 
 @media screen and (max-width: 992px) {
