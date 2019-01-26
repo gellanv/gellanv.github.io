@@ -6,7 +6,10 @@
 }
 
 @media screen and (max-width: 992px) {
-    .foto {margin-left: 0;}
+    .foto {margin-left: 0;
+       height: 190px;
+       width: 190px;
+       background-position: -25px -10px;}
     .about-1 {padding: 25px;}
     .about-1 h1 {font-size: 1.2em;}
     .about-1 h2 {font-size: 1em;
