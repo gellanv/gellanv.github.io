@@ -7,8 +7,8 @@
 
 @media screen and (max-width: 991px) {
     .foto {margin-left: 0;
-       height: 190px;
-       width: 190px;
+       height: 165px;
+       width: 165px;
        background-position: -25px -10px;}
     .about-1 {padding: 25px;}
     .about-1 h1 {font-size: 1.2em;}
