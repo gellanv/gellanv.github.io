@@ -38,7 +38,7 @@ text-align:center;
   width: 100%;
 background-image:url(../images/bg.png);
 padding:20px;}
-.portfolio {padding-left:0; padding-right:0;}
+.portfolio {padding-left:0 important!; padding-right:0 important!;}
 .portfolio .block {border: 1px solid #ccc9c9;
     height: 350px;
     background-color: #ffffff;
