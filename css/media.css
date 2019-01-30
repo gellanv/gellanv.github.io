@@ -29,5 +29,5 @@
 
 @media screen and (max-width: 581px) {
     .about__foto {display: none;}
-    .about-1 {width:100%;}
+    .about-1 {width:100%!important;}
 }
