@@ -31,3 +31,7 @@
     .about__foto {display: none;}
     .about-1 {width:100%!important;}
 }
+
+@media screen and (max-width: 480px) {
+    .portfolio>div {width:100%!important;}
+}
