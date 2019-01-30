@@ -4,7 +4,6 @@ body {font-family: 'Droid Serif', serif;}
 .header {background-color:#adc6c3;
 padding:5px;
 text-align:center;
-width:100%;
 position: fixed;
 z-index: 999;}
 .header a {color:#fff;
