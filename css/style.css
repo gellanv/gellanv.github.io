@@ -5,7 +5,8 @@ body {font-family: 'Droid Serif', serif;}
 padding:5px;
 text-align:center;
 position: fixed;
-z-index: 999;}
+z-index: 999;
+width: 100%;}
 .header a {color:#fff;
 font-size: 17px;}
 .nav li {display: inline-block;}
