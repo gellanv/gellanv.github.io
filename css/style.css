@@ -9,10 +9,9 @@ z-index: 999;
 width: 100%;}
 .header a {color:#fff;
 font-size: 17px;}
-.nav li {display: inline-block;}
-.nav li a {display:block;
+nav a {display:block;
 padding:10px;}
-.nav li a:hover {background-color: #efefef;
+nav a:hover {background-color: #efefef;
     border-radius: 10px;
     color: #3c3c3c;}
 .first-block {background: url(../images/backfon.jpg) no-repeat fixed 50% 0;
