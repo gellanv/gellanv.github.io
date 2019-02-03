@@ -51,7 +51,8 @@ footer {background-color:#adc6c3;
 text-align:center;
 color:#fff;
 padding-top:20px;
-padding-bottom:20px;}
+padding-bottom:20px;
+width: 100%;}
 footer li {list-style-type: none;
 padding:10px;
 font-size: 1.5em;}
