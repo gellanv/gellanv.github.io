@@ -23,14 +23,15 @@ header a:hover {background-color: #efefef;
     border-radius: 15px;
     box-shadow: 1px 1px 30px 1px #4e4d4d;
     border: 1px solid #636161;}
-.foto {background: url(../images/foto.jpg) no-repeat 0;
+.foto {background: url(../images/foto1.jpg) no-repeat 0;
     height: 250px;
     width: 250px;
     border-radius: 50%;
     background-position: 0 0;
  		margin-left: 20%;
  	  border: 1px solid #a09e9e;
-    box-shadow: 1px 1px 30px 1px #4e4d4d;}
+    box-shadow: 1px 1px 30px 1px #4e4d4d;
+background-size: 104%;}
 .about {padding: 100px;} 
 .second-block {background-color: #fff;
 text-align:center;
